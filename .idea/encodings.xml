@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/01-SpringAppDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/01-SpringAppDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/02-SpringDevTools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/02-SpringDevTools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/03-SpringActuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/03-SpringActuator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/04-SpringSecurity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/04-SpringSecurity/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/05-SpringCommandLine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/05-SpringCommandLine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/06-SpringProperties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/06-SpringProperties/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/01-ConstructorInjection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/01-ConstructorInjection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/02-ComponentScanning/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/02-ComponentScanning/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/03-SetterInjection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/03-SetterInjection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/04-Qualifiers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/04-Qualifiers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/05-Primary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/05-Primary/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/06-LazyInitialization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/06-LazyInitialization/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/07-BeanScopes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/07-BeanScopes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/08-BeanLifecycleMethods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/08-BeanLifecycleMethods/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/09-JavaConfigBean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/09-JavaConfigBean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/01-SringCrud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/01-SringCrud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringApp/src/main/java" charset="UTF-8" />
+  </component>
+</project>

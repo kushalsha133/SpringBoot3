@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringApp/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/01-SpringAppDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/02-SpringDevTools/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/03-SpringActuator/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/04-SpringSecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/05-SpringCommandLine/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/06-SpringProperties/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-core/01-ConstructorInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-core/02-ComponentScanning/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-core/03-SetterInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-core/04-Qualifiers/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-core/05-Primary/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-core/06-LazyInitialization/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-core/07-BeanScopes/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-core/08-BeanLifecycleMethods/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-core/09-JavaConfigBean/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/01-SringCrud/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="04-SpringSecurity (2)" />
+        <module name="04-SpringSecurity (3)" />
+        <module name="04-SpringSecurity (1)" />
+        <module name="01-SpringCore (1)" />
+        <module name="01-SpringCore (6)" />
+        <module name="01-SpringCore (7)" />
+        <module name="SpringApp (3)" />
+        <module name="01-SpringCore (8)" />
+        <module name="SpringApp (2)" />
+        <module name="01-SpringCore (9)" />
+        <module name="SpringApp (1)" />
+        <module name="01-SpringCore (2)" />
+        <module name="01-SpringCore (3)" />
+        <module name="01-SpringCore (4)" />
+        <module name="01-SpringCore (5)" />
+        <module name="01-SringCrud" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-SpringCore" target="17" />
+      <module name="03-SpringActuator" target="17" />
+      <module name="04-SpringSecurity" target="17" />
+      <module name="SpringApp" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-SpringCore" options="-parameters" />
+      <module name="01-SpringCore (1)" options="-parameters" />
+      <module name="01-SpringCore (2)" options="-parameters" />
+      <module name="01-SpringCore (3)" options="-parameters" />
+      <module name="01-SpringCore (4)" options="-parameters" />
+      <module name="01-SpringCore (5)" options="-parameters" />
+      <module name="01-SpringCore (6)" options="-parameters" />
+      <module name="01-SpringCore (7)" options="-parameters" />
+      <module name="01-SpringCore (8)" options="-parameters" />
+      <module name="01-SpringCore (9)" options="-parameters" />
+      <module name="01-SringCrud" options="-parameters" />
+      <module name="03-SpringActuator" options="-parameters" />
+      <module name="04-SpringSecurity" options="-parameters" />
+      <module name="04-SpringSecurity (1)" options="-parameters" />
+      <module name="04-SpringSecurity (2)" options="-parameters" />
+      <module name="04-SpringSecurity (3)" options="-parameters" />
+      <module name="SpringApp" options="-parameters" />
+      <module name="SpringApp (1)" options="-parameters" />
+      <module name="SpringApp (2)" options="-parameters" />
+      <module name="SpringApp (3)" options="-parameters" />
+    </option>
+  </component>
+</project>
