@@ -21,6 +21,9 @@
         <module name="01-SpringCore (3)" />
         <module name="01-SpringCore (4)" />
         <module name="01-SpringCore (5)" />
+        <module name="restCrud (1)" />
+        <module name="restCrud (3)" />
+        <module name="restCrud (2)" />
         <module name="01-SringCrud" />
         <module name="SpringRest" />
       </profile>
@@ -29,6 +32,7 @@
       <module name="01-SpringCore" target="17" />
       <module name="03-SpringActuator" target="17" />
       <module name="04-SpringSecurity" target="17" />
+      <module name="restCrud" target="17" />
       <module name="SpringApp" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -55,6 +59,10 @@
       <module name="SpringApp (2)" options="-parameters" />
       <module name="SpringApp (3)" options="-parameters" />
       <module name="SpringRest" options="-parameters" />
+      <module name="restCrud" options="-parameters" />
+      <module name="restCrud (1)" options="-parameters" />
+      <module name="restCrud (2)" options="-parameters" />
+      <module name="restCrud (3)" options="-parameters" />
     </option>
   </component>
 </project>

@@ -22,6 +22,9 @@
         <option value="$PROJECT_DIR$/02-spring-boot-spring-core/09-JavaConfigBean/pom.xml" />
         <option value="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/01-SringCrud/pom.xml" />
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/03-spring-boot-rest-crud-jparepository-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/04-spring-boot-rest-crud-jparepository-datarest-employee/pom.xml" />
       </list>
     </option>
   </component>
