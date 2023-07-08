@@ -39,6 +39,8 @@
     <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/03-spring-boot-rest-crud-jparepository-employee/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/04-spring-boot-rest-crud-jparepository-datarest-employee/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/04-spring-boot-rest-crud-jparepository-datarest-employee/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc/01-thymeleafDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringApp/src/main/java" charset="UTF-8" />
   </component>
 </project>
