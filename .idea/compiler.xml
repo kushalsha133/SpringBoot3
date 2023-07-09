@@ -10,6 +10,7 @@
         <module name="04-SpringSecurity (3)" />
         <module name="04-SpringSecurity (1)" />
         <module name="01-SpringCore (1)" />
+        <module name="thymeleafdemo (1) (com.kushal.springboot)" />
         <module name="01-SpringCore (6)" />
         <module name="01-SpringCore (7)" />
         <module name="SpringApp (3)" />
@@ -23,8 +24,8 @@
         <module name="01-SpringCore (5)" />
         <module name="restCrud (1)" />
         <module name="cruddemo" />
-        <module name="thymeleafdemo" />
         <module name="restCrud (3)" />
+        <module name="thymeleafdemo (2) (com.luv2code.springboot)" />
         <module name="restCrud (2)" />
         <module name="01-SringCrud" />
         <module name="SpringRest" />
@@ -36,6 +37,7 @@
       <module name="04-SpringSecurity" target="17" />
       <module name="restCrud" target="17" />
       <module name="SpringApp" target="17" />
+      <module name="thymeleafdemo" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -67,6 +69,8 @@
       <module name="restCrud (2)" options="-parameters" />
       <module name="restCrud (3)" options="-parameters" />
       <module name="thymeleafdemo" options="-parameters" />
+      <module name="thymeleafdemo (1) (com.kushal.springboot)" options="-parameters" />
+      <module name="thymeleafdemo (2) (com.luv2code.springboot)" options="-parameters" />
     </option>
   </component>
 </project>
